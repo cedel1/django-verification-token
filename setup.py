@@ -6,7 +6,7 @@ from verification_token.version import get_version
 setup(
     name='django-verification-token',
     version=get_version(),
-    description="Django library for generation verification toekens.",
+    description="Django library for generating verification tokens.",
     keywords='django, verification token',
     author='Lubos Matl',
     author_email='matllubos@gmail.com',
